@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Wonder woman
-=======
-Wonder Woman
-Mr Incredicble
->>>>>>> BugFix
-I am adding some code after Initial checki - BugFix1
+I deleted everything
